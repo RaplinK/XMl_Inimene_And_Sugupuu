@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimesed>
+  <inimene>
+    <nimi>Kevin Konst</nimi>
+    <aasta>2001</aasta>
+    <laps>Daniil</laps>
+  </inimene>
+  <inimene>
+    <nimi>Vadim</nimi>
+    <aasta>1956</aasta>
+    <laps>Ruslan</laps>
+  </inimene>
+  <inimene>
+    <nimi>Kristina</nimi>
+    <aasta>1990</aasta>
+    <laps>Danil</laps>
+  </inimene>
+  <inimene>
+    <nimi>Marina</nimi>
+    <aasta>1987</aasta>
+    <laps>Artur</laps>
+  </inimene>
+  <inimene>
+    <nimi>Maks</nimi>
+    <aasta>2005</aasta>
+    <laps>Oleg</laps>
+  </inimene>
+</inimesed>
